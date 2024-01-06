@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BloodCenter.Shared\BloodCenter.Shared.csproj" />
+  </ItemGroup>
+
 </Project>
