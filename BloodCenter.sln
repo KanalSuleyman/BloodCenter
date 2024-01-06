@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodCenter.Application", "BloodCenter.Application\BloodCenter.Application.csproj", "{2F0B5568-A89A-4D98-A58E-0FE399BAE714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodCenter.Core", "BloodCenter.Core\BloodCenter.Core.csproj", "{BFA5583C-5DB6-467F-9BC7-AAE563B5F8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodCenter.Infrastructure", "BloodCenter.Infrastructure\BloodCenter.Infrastructure.csproj", "{DA6BBC2D-AEE8-42C0-9B47-893A77F29E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodCenter.Sql", "BloodCenter.Sql\BloodCenter.Sql.csproj", "{858C5590-0766-4FAE-9457-CBC84E339A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodCenter.Shared", "BloodCenter.Shared\BloodCenter.Shared.csproj", "{A611CCE6-3245-47A6-A67C-05498BF68B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodCenter.Mvc", "BloodCenter.Mvc\BloodCenter.Mvc.csproj", "{AF866793-63C9-4592-9A21-3A792CE75048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0B5568-A89A-4D98-A58E-0FE399BAE714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0B5568-A89A-4D98-A58E-0FE399BAE714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0B5568-A89A-4D98-A58E-0FE399BAE714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0B5568-A89A-4D98-A58E-0FE399BAE714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA5583C-5DB6-467F-9BC7-AAE563B5F8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA5583C-5DB6-467F-9BC7-AAE563B5F8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA5583C-5DB6-467F-9BC7-AAE563B5F8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA5583C-5DB6-467F-9BC7-AAE563B5F8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6BBC2D-AEE8-42C0-9B47-893A77F29E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6BBC2D-AEE8-42C0-9B47-893A77F29E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6BBC2D-AEE8-42C0-9B47-893A77F29E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6BBC2D-AEE8-42C0-9B47-893A77F29E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858C5590-0766-4FAE-9457-CBC84E339A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858C5590-0766-4FAE-9457-CBC84E339A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858C5590-0766-4FAE-9457-CBC84E339A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858C5590-0766-4FAE-9457-CBC84E339A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A611CCE6-3245-47A6-A67C-05498BF68B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A611CCE6-3245-47A6-A67C-05498BF68B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A611CCE6-3245-47A6-A67C-05498BF68B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A611CCE6-3245-47A6-A67C-05498BF68B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF866793-63C9-4592-9A21-3A792CE75048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF866793-63C9-4592-9A21-3A792CE75048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF866793-63C9-4592-9A21-3A792CE75048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF866793-63C9-4592-9A21-3A792CE75048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F6F240-C13A-4433-A944-7A95D25C2767}
+	EndGlobalSection
+EndGlobal
